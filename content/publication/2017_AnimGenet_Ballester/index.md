@@ -2,9 +2,9 @@
 title: "Association of genetic variants and expression levels of porcine FABP4 and FABP5 genes"
 authors:
 - Maria Ballester
-- Anna Puig&#150;Oliveras
+- Anna Puig-Oliveras
 - Anna Castell&oacute;
-- <strong>Manuel Revilla</strong>
+- "**Manuel Revilla**"
 - Ana I Fern&aacute;ndez
 - Josep M Folch
 
@@ -24,7 +24,7 @@ publication_types: ["2"]
 publication: "*Animal Genetics*"
 publication_short: ""
 
-abstract: The <i>FABP4</i> and <i>FABP5</i> genes, coding for fatty acid transport proteins, have long been studied as positional candidate genes for SSC4 QTL affecting fat deposition and composition traits in pigs. Polymorphisms in these genes, <i>FABP4:g.2634_2635insC</i> and <i>FABP5:g.3000T&gt;G</i>, have previously been associated with fatness traits in an Iberian by Landrace cross (IBMAP). The aim of the present work was to evaluate the functional implication of these genetic variants. For this purpose, <i>FABP4</i> and <i>FABP5</i> mRNA expression levels in 114 BC1_LD animals (25% Iberian x 75% Landrace) were analyzed using real&#150;time quantitative PCR in backfat and muscle. <i>FABP4</i> gene expression in backfat, but not in muscle, was associated with <i>FABP4:g.2634_2635insC</i>. In contrast, <i>FABP5:g.3000T&gt;G</i> was not associated with gene expression levels. An expression&#150;based genome&#150;wide association study highlighted the <i>FABP4:g.2634_2635insC</i> polymorphism as the polymorphism most associated with <i>FABP4</i> gene expression in backfat. Furthermore, other genomic regions associated in trans with the mRNA expression of <i>FABP4</i> in backfat and <i>FABP5</i> in muscle were also identified. Finally, two putative transcription binding sites for PPARG and NR4A2 may be affected by the <i>FABP4:g.2634_2635insC</i> polymorphism, modifying <i>FABP4</i> gene expression. Our results reinforce <i>FABP4</i> as a candidate gene for fatness traits on SSC4.
+abstract: The *FABP4* and *FABP5* genes, coding for fatty acid transport proteins, have long been studied as positional candidate genes for SSC4 QTL affecting fat deposition and composition traits in pigs. Polymorphisms in these genes, *FABP4:g.2634_2635insC* and *FABP5:g.3000T&gt;G*, have previously been associated with fatness traits in an Iberian by Landrace cross (IBMAP). The aim of the present work was to evaluate the functional implication of these genetic variants. For this purpose, *FABP4* and *FABP5* mRNA expression levels in 114 BC1_LD animals (25% Iberian x 75% Landrace) were analyzed using real-time quantitative PCR in backfat and muscle. *FABP4* gene expression in backfat, but not in muscle, was associated with *FABP4:g.2634_2635insC*. In contrast, *FABP5:g.3000T&gt;G* was not associated with gene expression levels. An expression-based genome-wide association study highlighted the *FABP4:g.2634_2635insC* polymorphism as the polymorphism most associated with *FABP4* gene expression in backfat. Furthermore, other genomic regions associated in trans with the mRNA expression of *FABP4* in backfat and *FABP5* in muscle were also identified. Finally, two putative transcription binding sites for PPARG and NR4A2 may be affected by the *FABP4:g.2634_2635insC* polymorphism, modifying *FABP4* gene expression. Our results reinforce *FABP4* as a candidate gene for fatness traits on SSC4.
 
 
 # Summary. An optional shortened abstract.
@@ -70,9 +70,5 @@ projects:
 slides: 
 ---
 
-<div class="article-style">
-  <h4 id=full-citation">Full citation</h4>
-<p>
-  Ballester, M., Puig&#150;Oliveras, A., Castell&oacute;, A., <strong>Revilla, M.</strong>, Fern&aacute;ndez, A.I., Folch, J.M. (2017). Association of genetic variants and expression levels of porcine FABP4 and FABP5 genes. <em>Animal Genetics</em>, 48(6):660-668. doi: <a href="https://doi.org/10.1111/age.12620" target="_blank">10.1111/age.12620</a>  
-  </p>
-</div>
+#### Full citation ####
+Ballester, M., Puig-Oliveras, A., Castell&oacute;, A., **Revilla, M.**, Fern&aacute;ndez, A.I., Folch, J.M. (2017). Association of genetic variants and expression levels of porcine FABP4 and FABP5 genes. *Animal Genetics*, 48(6):660-668. doi: [10.1111/age.12620](https://doi.org/10.1111/age.12620 "10.1111/age.12620") 

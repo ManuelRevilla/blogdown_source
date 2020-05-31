@@ -33,7 +33,7 @@ Here I want to show you the climbs I have made in my current country of residenc
 
 For many riders France is pretty much consider the king of pain.
 
-The home of the <i>"Tour de France"</i> is one of the best places in the world to pit yourself against gravity in pursuit of sporting greatness, unbeatable views, and utter exhaustion.
+The home of the *"Tour de France"* is one of the best places in the world to pit yourself against gravity in pursuit of sporting greatness, unbeatable views, and utter exhaustion.
 
 Some you will have heard of but never attempted, some offer a fresh perspective on legendary ascents, and others are simply the stuff of cyclists' nightmares. 
 
@@ -44,76 +44,44 @@ You can find from legendary climbs consider true icons, to others that are not v
 Before check the plot, some aspect should be highlight:
 
 
-<center>
-<strong>&middot; 1. DEGREE OF DIFFICULTY &middot;</strong> 
-</center>
+{{< shortcodedegreeone >}}
 
 
 The number associated to each climb represent the degree of difficulty, the bigger the number the bigger the difficulty.
 
-This degree is based on the formula given by Juanto Uribarri. A complete description, in Spanish, could be find in this post at <a href="https://www.altimetrias.net/articulos/4cd.asp" target="_blank">Altimetrias</a> website. 
+This degree is based on the formula given by Juanto Uribarri. A complete description, in Spanish, could be find in this post at [Altimetrias](https://www.altimetrias.net/articulos/4cd.asp "Altimetrias") website. 
 
 This could be a good estimator to compare the difficulty of different climbs, at least from an objective point of view.
 
 Based on this, the climbs are classified in four categories:
 
-<ol style="list-style-type: square">
-     <ul>
-      <li>
-         <strong>HC</strong> <i>Hors cat&eacute;gorie</i>, french term to designate a climb that is "beyond categorization"
-      </li>
-      <li>
-        <strong>Category 1</strong> 120-240
-      </li>
-      <li>
-       <strong>Category 2</strong> 60-119
-      </li>
-      <li>
-       <strong>Category 3</strong> <60
-      </li>
-    </ul>
-</ol>
+* **HC** *Hors cat&eacute;gorie*, french term to designate a climb that is "beyond categorization"
+* **Category 1** 120-240
+* **Category 2** 60-119
+* **Category 3** <60
 
-<font size="-1">
-* Note that in professional cycling stage races such as, <i>"Tour de France"</i>, <i>"Giro d'Italia"</i> and <i>"Vuelta a Espa&ntilde;a"</i>, this classification differs depending of the organization decision.
-</font>
+{{< shortcodenote >}}
 
 For an easy display, only climbings belonging to HC, first and second category are represented.
 
 
-<center>
-<strong>&middot; 2. MORE THAN ONE DEGREE OF DIFFICULTY FOR AN SPECIFIC CLIMB &middot;</strong> 
-</center>
-
+{{< shortcodedegreetwo >}}
 
 For many of the climbs, you have several roads to get to the top. For those cases, the side used is specified and its degree of difficulty indicated as well.
 
 
-<center>
-<strong>&middot; 3. COMPLETE INFORMATION FOR THE CLIMB &middot;</strong> 
-</center>
+{{< shortcodedegreethree >}}
 
 
 To reveal more information for a specific climb, click on the associated point.
 
 The associated information included the length (km), average gradient (%), maximum gradient (%), cumulative elevation gain (m), and the height of the climb (m).
 
-
-<iframe title="Cycling climb locations in Andorra and France" aria-label="Locator maps" id="datawrapper-chart-RTuBK" src="//datawrapper.dwcdn.net/RTuBK/9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="509"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
-</script>
-
-<figcaption>
-Click on location to reveal more information &brvbar; Updated 2019/11/01 <br>
-Map: &copy; OpenStreetMap contributors &middot; Source: <a href="https://www.altimetrias.net/" target="_blank">APM | Altimetrias</a>
-</figcaption>
+{{< shortcodedatawrapperFR >}}
 
 
 I hope you find this post useful and interesting, and if you decide to ride in one of the detailed climbs I am sure it is going to give you the biggest sense of achievement ever.
 
 
-<blockquote>
-  <p>
-"Those who ride a bicycle know that in life nothing is really flat." 
-  </p>
+>"Those who ride a bicycle know that in life nothing is really flat."  
 -Ren&egrave; Fallet
-</blockquote>

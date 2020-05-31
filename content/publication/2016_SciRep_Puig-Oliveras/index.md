@@ -1,8 +1,8 @@
 ---
 title: "Expression-based GWAS identifies variants, gene interactions and key regulators affecting intramuscular fatty acid content and composition in porcine meat"
 authors:
-- Anna Puig&#150;Oliveras
-- <strong>Manuel Revilla</strong>
+- Anna Puig-Oliveras
+- "**Manuel Revilla**"
 - Anna Castell&oacute;
 - Ana I Fern&aacute;ndez
 - Josep M Folch
@@ -24,7 +24,7 @@ publication_types: ["2"]
 publication: "*Scientific Reports*"
 publication_short: ""
 
-abstract: The aim of this work is to better understand the genetic mechanisms determining two complex traits affecting porcine meat quality&#58; intramuscular fat (IMF) content and its fatty acid (FA) composition. With this purpose, expression Genome&#150;Wide Association Study (eGWAS) of 45 lipid&#150;related genes associated with meat quality traits in swine muscle (<i>Longissimus dorsi</i>) of 114 Iberian x Landrace backcross animals was performed. The eGWAS identified 241 SNPs associated with 11 genes&#58; <i>ACSM5, CROT, FABP3, FOS, HIF1AN, IGF2, MGLL, NCOA1, PIK3R1, PLA2G12A</i> and <i>PPARA</i>. Three expression Quantitative Trait Loci (eQTLs) for <i>IGF2, ACSM5</i> and <i>MGLL</i> were identified, showing <i>cis</i>&#150;acting effects, whereas 16 eQTLs had <i>trans</i> regulatory effects. A polymorphism in the <i>ACSM5</i> promoter region associated with its expression was identified. In addition, strong candidate genes regulating <i>ACSM5, FOS, PPARA, PIK3R1, PLA2G12A</i> and <i>HIF1AN</i> gene expression were also seen. Notably, the analysis highlighted the NR3C1 transcription factor as a strong candidate gene involved in the regulation of the 45 genes analysed. Finally, the <i>IGF2, MGLL, MC2R, ARHGAP6,</i> and <i>NR3C1</i> genes were identified as potential regulators co&#150;localizing within QTLs for fatness and growth traits in the IBMAP population. The results obtained increase our knowledge in the functional regulatory mechanisms involved in these complex traits.
+abstract: The aim of this work is to better understand the genetic mechanisms determining two complex traits affecting porcine meat quality&#58; intramuscular fat (IMF) content and its fatty acid (FA) composition. With this purpose, expression Genome-Wide Association Study (eGWAS) of 45 lipid-related genes associated with meat quality traits in swine muscle (*Longissimus dorsi*) of 114 Iberian x Landrace backcross animals was performed. The eGWAS identified 241 SNPs associated with 11 genes&#58; *ACSM5, CROT, FABP3, FOS, HIF1AN, IGF2, MGLL, NCOA1, PIK3R1, PLA2G12A* and *PPARA*. Three expression Quantitative Trait Loci (eQTLs) for *IGF2, ACSM5* and *MGLL* were identified, showing *cis*-acting effects, whereas 16 eQTLs had *trans* regulatory effects. A polymorphism in the *ACSM5* promoter region associated with its expression was identified. In addition, strong candidate genes regulating *ACSM5, FOS, PPARA, PIK3R1, PLA2G12A* and *HIF1AN* gene expression were also seen. Notably, the analysis highlighted the NR3C1 transcription factor as a strong candidate gene involved in the regulation of the 45 genes analysed. Finally, the *IGF2, MGLL, MC2R, ARHGAP6,* and *NR3C1* genes were identified as potential regulators co-localizing within QTLs for fatness and growth traits in the IBMAP population. The results obtained increase our knowledge in the functional regulatory mechanisms involved in these complex traits.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -69,9 +69,5 @@ projects:
 slides: 
 ---
 
-<div class="article-style">
-  <h4 id=full-citation">Full citation</h4>
-<p>
-  Puig&#150;Oliveras, A., <strong>Revilla, M.</strong>, Castell&oacute;, A., Fern&aacute;ndez, A.I., Folch, J.M., Ballester, M. (2016). Expression-based GWAS identifies variants, gene interactions and key regulators affecting intramuscular fatty acid content and composition in porcine meat. <em>Scientific Reports</em>, 6:31803. doi: <a href="https://doi.org/10.1038/srep31803" target="_blank">10.1038/srep31803</a>  
-  </p>
-</div>
+#### Full citation ####
+Puig-Oliveras, A., **Revilla, M.**, Castell&oacute;, A., Fern&aacute;ndez, A.I., Folch, J.M., Ballester, M. (2016). Expression-based GWAS identifies variants, gene interactions and key regulators affecting intramuscular fatty acid content and composition in porcine meat. *Scientific Reports*, 6:31803. doi: [10.1038/srep31803](https://doi.org/10.1038/srep31803 "10.1038/srep31803") 

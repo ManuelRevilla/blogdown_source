@@ -10,21 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Geneticist
 
 # Organizations/Affiliations
 organizations:
-- name: INRAE 
-  url: "https://www.inrae.fr/en"
+- name: Hendrix Genetics 
+  url: "https://www.hendrix-genetics.com/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are related to applied statistical and computational tools to understand the genetic basis of complex traits in pigs
+bio: Geneticist working on genotypes and genomic evaluations at multi-species animal breeding company
 
 interests:
+- Genetics & Genomics
 - Biostatistics
-- Genomics
-- Transcriptomics
-- Microbiota
+- Animal Breeding
 
 education:
   courses:
@@ -45,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:manuel.revilla-sanchez@inrae.fr'  # For a direct email link, use "mailto:manuel.revilla-sanchez@inrae.fr".
+  link: 'mailto:manuel.revilla@hendrix-genetics.com'  # For a direct email link, use "mailto:manuel.revilla@hendrix-genetics.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ManuelRevillaRs
@@ -82,15 +81,11 @@ user_groups:
 - Visitors
 ---
 
-My research interests are related to applied statistical and computational tools to understand the genetic basis of complex traits in pigs.
+After completing a degree on Veterinary medicine (DVM) at the Extremadura University (UNEX, Spain), in 2017 I obtained a PhD on Animal Production at the Autonomous University of Barcelona (UAB, Spain). 
 
-My current research activity targets the global objective to enhance sustainability of pig production systems. My research is focused along three main axes:
+From 2017 to 2020, I was a Postdoctoral Researcher sharing my time between the [Animal Genetics and Integrative Biology (GABI)](https://www6.jouy.inrae.fr/gabi_eng/ "Animal Genetics and Integrative Biology (GABI)") research unit in the [Animal Genetics](https://www.inrae.fr/en/divisions/animal-genetics "Animal Genetics") division of [INRAE](https://www.inrae.fr/en "INRAE") in Jouy-en-Josas (France), and the [Systemic modeling applied to ruminants (MoSAR)](https://www6.jouy.inrae.fr/mosar_eng/UMR-MoSAR "Systemic modeling applied to ruminants (MoSAR)") research unit in the Animal Physiology and Livestock Systems (PHASE) division of [AgroParisTech](http://www2.agroparistech.fr/Welcome-to-AgroParisTech.html "AgroParisTech") in Paris (France).   
 
-<ol>
-  <li>Genetics and Genomics</li>
-  <li>Characterization of intestinal microbiota</li>
-  <li>Integrative biology approaches</li>
-</ol>
+During this time my research interests were related to applied statistical and computational tools to understand the genetic basis of complex traits in pigs. 
 
+Since 2020, I joined [Hendrix Genetics](https://www.hendrix-genetics.com/en/ "Hendrix Genetics") company headquartered in Boxmeer (the Netherlands) as a Geneticist working on genotypes and genomic evaluations at multi-species animal breeding (-swine, -turkeys, -layers, -poultry, -salmon, -shrimp and -trout).
 
-I am currently a Postdoctoral Researcher in the <a href="https://www6.jouy.inrae.fr/gabi/Les-Recherches/Equipes-de-recherche/GeMS" target="_blank">G&eacute;n&eacute;tique, Microbiote, Sant&eacute; (GeMS)</a> team in the <a href="https://www6.jouy.inrae.fr/gabi_eng/" target="_blank">Animal Genetics and Integrative Biology (GABI)</a> research unit in the <a href="https://www.inrae.fr/departements/genetique-animale" target="_blank">Animal Genetics</a> department of <a href="https://www.inrae.fr/en" target="_blank">INRAE</a> in Jouy-en-Josas (France).

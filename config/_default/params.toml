@@ -85,7 +85,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "manuel.revilla-sanchez@inrae.fr"
+email = "manuel.revilla@hendrix-genetics.com"
 #phone = "888 888 88 88"
 
 # Address
@@ -109,7 +109,7 @@ coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Follow me on Twitter", link = "https://twitter.com/manuelrevillars"},
+  {icon = "twitter", icon_pack = "fab", name = "@ManuelRevillaRs", link = "https://twitter.com/manuelrevillars"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   #{icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},

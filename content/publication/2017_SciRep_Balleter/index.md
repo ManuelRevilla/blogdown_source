@@ -2,8 +2,8 @@
 title: "Integration of liver gene co-expression networks and eGWAs analyses highlighted candidate regulators implicated in lipid metabolism in pigs"
 authors:
 - Maria Ballester
-- Yuliaxis Ramayo&#150;Caldas
-- <strong>Manuel Revilla</strong>
+- Yuliaxis Ramayo-Caldas
+- "**Manuel Revilla**"
 - Jordi Corominas
 - Anna Castell&oacute;
 - Jordi Estell&eacute;
@@ -26,7 +26,7 @@ publication_types: ["2"]
 publication: "*Scientific Reports*"
 publication_short: ""
 
-abstract: In the present study, liver co&#150;expression networks and expression Genome Wide Association Study (eGWAS) were performed to identify DNA variants and molecular pathways implicated in the functional regulatory mechanisms of meat quality traits in pigs. With this purpose, the liver mRNA expression of 44 candidates genes related with lipid metabolism was analysed in 111 Iberian x Landrace backcross animals. The eGWAS identified 92 eSNPs located in seven chromosomal regions and associated with eight genes&#58; <i>CROT, CYP2U1, DGAT1, EGF, FABP1, FABP5, PLA2G12A,</i> and <i>PPARA</i>. Remarkably, <i>cis</i>&#150;eSNPs associated with <i>FABP1</i> gene expression which may be determining the C18&#58;2(n&#150;6)/C18&#58;3(n&#150;3) ratio in backfat through the multiple interaction of DNA variants and genes were identified. Furthermore, a hotspot on SSC8 associated with the gene expression of eight genes was identified and the <i>TBCK</i> gene was pointed out as candidate gene regulating it. Our results also suggested that the PI3K&#150;Akt&#150;mTOR pathway plays an important role in the control of the analysed genes highlighting nuclear receptors as the NR3C1 or PPARA. Finally, sex&#150;dimorphism associated with hepatic lipid metabolism was identified with over&#150;representation of female&#150;biased genes. These results increase our knowledge of the genetic architecture underlying fat composition traits.
+abstract: In the present study, liver co-expression networks and expression Genome Wide Association Study (eGWAS) were performed to identify DNA variants and molecular pathways implicated in the functional regulatory mechanisms of meat quality traits in pigs. With this purpose, the liver mRNA expression of 44 candidates genes related with lipid metabolism was analysed in 111 Iberian x Landrace backcross animals. The eGWAS identified 92 eSNPs located in seven chromosomal regions and associated with eight genes&#58; *CROT, CYP2U1, DGAT1, EGF, FABP1, FABP5, PLA2G12A,* and *PPARA*. Remarkably, *cis*-eSNPs associated with *FABP1* gene expression which may be determining the C18:2(n-6)/C18:3(n-3) ratio in backfat through the multiple interaction of DNA variants and genes were identified. Furthermore, a hotspot on SSC8 associated with the gene expression of eight genes was identified and the *TBCK* gene was pointed out as candidate gene regulating it. Our results also suggested that the PI3K-Akt-mTOR pathway plays an important role in the control of the analysed genes highlighting nuclear receptors as the NR3C1 or PPARA. Finally, sex-dimorphism associated with hepatic lipid metabolism was identified with over-representation of female-biased genes. These results increase our knowledge of the genetic architecture underlying fat composition traits.
 
 
 # Summary. An optional shortened abstract.
@@ -72,10 +72,6 @@ projects:
 slides: 
 ---
 
-<div class="article-style">
-  <h4 id=full-citation">Full citation</h4>
-<p>
-  Ballester, M., Ramayo&#150;Caldas, Y., <strong>Revilla, M.</strong>, Corominas, J., Castell&oacute;, A., Estell&eacute;, J., Fern&aacute;ndez, A.I., Folch, J.M. (2017). Integration of liver gene co-expression networks and eGWAs analyses highlighted candidate regulators implicated in lipid metabolism in pigs. <em>Scientific Reports</em>, 7:46539. doi: <a href="https://doi.org/10.1038/srep46539" target="_blank">10.1038/srep46539</a>  
-  </p>
-</div>
+#### Full citation ####
+Ballester, M., Ramayo-Caldas, Y., **Revilla, M.**, Corominas, J., Castell&oacute;, A., Estell&eacute;, J., Fern&aacute;ndez, A.I., Folch, J.M. (2017). Integration of liver gene co-expression networks and eGWAs analyses highlighted candidate regulators implicated in lipid metabolism in pigs. *Scientific Reports*, 7:46539. doi: [10.1038/srep46539](https://doi.org/10.1038/srep46539 "10.1038/srep46539") 
   

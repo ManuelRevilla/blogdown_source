@@ -1,18 +1,18 @@
 ---
 title: "Towards the quantitative characterisation of piglets' robustness to weaning: a modelling approach"
 authors:
-- <strong>Manuel Revilla</strong>
+- "**Manuel Revilla**"
 - Nicolas C Friggens
-- Laurent&#150;Philippe Broudiscou
+- Laurent-Philippe Broudiscou
 - Ga&euml;tan Lemonnier
 - Fany Blanc
 - Laure Ravon
-- Marie&#150;Jos&eacute; Mercat
+- Marie-Jos&eacute; Mercat
 - Yvon Billon
-- Claire Rogel&#150;Gaillard
+- Claire Rogel-Gaillard
 - Nathalie Le Floch
 - Jordi Estell&eacute;
-- Rafael Mu&ntilde;oz&#150;Tamayo
+- Rafael Mu&ntilde;oz-Tamayo
 date: "2019-11-01T00:00:00Z"
 doi: "10.1017/S1751731119000843"
 
@@ -74,12 +74,6 @@ projects:
 slides: 
 ---
 
-<div class="article-style">
-  <h4 id=full-citation">Full citation</h4>
-<p>
-  <strong>Revilla, M.</strong>
-  , Friggens, N.C., Broudiscou, L., Lemonnier, G., Blanc, F., Ravon, L., Mercat, J.M., Billon, Y., Rogel-Gaillard, R., Le Floch, N., Estell&eacute;, J., Mu&ntilde;oz&#150;Tamayo, R. (2019). Towards the quantitative characterisation of piglets' robustness to weaning: A modelling approach. <em>Animal</em>
-, 13(11):2536-2546. doi: <a href="https://doi.org/10.1017/S1751731119000843" target="_blank">10.1017/S1751731119000843</a> 
-  </p>
-</div>
-
+#### Full citation ####
+**Revilla, M.**, Friggens, N.C., Broudiscou, L., Lemonnier, G., Blanc, F., Ravon, L., Mercat, J.M., Billon, Y., Rogel-Gaillard, R., Le Floch, N., Estell&eacute;, J., Mu&ntilde;oz-Tamayo, R. (2019). Towards the quantitative characterisation of piglets' robustness to weaning: A modelling approach. *Animal*
+, 13(11):2536-2546. doi: [10.1017/S1751731119000843](https://doi.org/10.1017/S1751731119000843 "10.1017/S1751731119000843") 

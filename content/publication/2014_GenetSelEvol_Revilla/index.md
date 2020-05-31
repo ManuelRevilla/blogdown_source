@@ -1,12 +1,12 @@
 ---
 title: "New insight into the SSC8 genetic determination of fatty acid composition in pigs"
 authors:
-- <strong>Manuel Revilla</strong>
-- Yuliaxis Ramayo&#150;Caldas
+- "**Manuel Revilla**"
+- Yuliaxis Ramayo-Caldas
 - Anna Castell&oacute;
 - Jordi Corominas
-- Anna Puig&#150;Oliveras
-- Noelia Iba&ntilde;ez&#150;Escriche
+- Anna Puig-Oliveras
+- Noelia Iba&ntilde;ez-Escriche
 - Mar&iacute;a Mu&ntilde;oz
 - Maria Ballester
 - Josep M Folch
@@ -28,7 +28,7 @@ publication_types: ["2"]
 publication: "*Genetics Selection Evolution*"
 publication_short: ""
 
-abstract: Fat content and fatty acid composition in swine are becoming increasingly studied because of their effect on sensory and nutritional quality of meat. A QTL (quantitative trait locus) for fatty acid composition in backfat was previously detected on porcine chromosome 8 (SSC8) in an Iberian x Landrace F<sub>2</sub> intercross. More recently, a genome&#150;wide association study detected the same genomic region for muscle fatty acid composition in an Iberian x Landrace backcross population. <i>ELOVL6</i>, a strong positional candidate gene for this QTL, contains a polymorphism in its promoter region (<i>ELOVL6&#58;c.&#150;533C &lt; T</i>), which is associated with percentage of palmitic and palmitoleic acids in muscle and adipose tissues. Here, a combination of single&#150;marker association and the haplotype&#150;based approach was used to analyze backfat fatty acid composition in 470 animals of an Iberian x Landrace F<sub>2</sub> intercross genotyped with 144 SNPs (single nucleotide polymorphisms) distributed along SSC8.Two trait&#150;associated SNP regions were identified at 93 Mb and 119 Mb on SSC8. The strongest statistical signals of both regions were observed for palmitoleic acid (C16&#58;1(n&#150;7)) content and C18&#58;0&#47;C16&#58;0 and C18&#58;1(n&#150;7)&#47;C16&#58;1(n&#150;7) elongation ratios. <i>MAML3</i> and <i>SETD7</i> are positional candidate genes in the 93 Mb region and two novel microsatellites in <i>MAML3</i> and nine SNPs in <i>SETD7</i> were identified. No significant association for the <i>MAML3</i> microsatellite genotypes was detected. The <i>SETD7&#58;c.700G &gt; T</i> SNP, although statistically significant, was not the strongest signal in this region. In addition, the expression of <i>MAML3</i> and <i>SETD7</i> in liver and adipose tissue varied among animals, but no association was detected with the polymorphisms in these genes. In the 119 Mb region, the <i>ELOVL6&#58;c.&#150;533C &lt; T</i> polymorphism showed a strong association with percentage of palmitic and palmitoleic fatty acids and elongation ratios in backfat. Our results suggest that the polymorphisms studied in <i>MAML3</i> and <i>SETD7</i> are not the causal mutations for the QTL in the 93 Mb region. However, the results for <i>ELOVL6</i> support the hypothesis that the <i>ELOVL6&#58;c.&#150;533C &gt; T</i> polymorphism has a pleiotropic effect on backfat and intramuscular fatty acid composition and that it has a role in the determination of the QTL in the 119 Mb region.
+abstract: Fat content and fatty acid composition in swine are becoming increasingly studied because of their effect on sensory and nutritional quality of meat. A QTL (quantitative trait locus) for fatty acid composition in backfat was previously detected on porcine chromosome 8 (SSC8) in an Iberian x Landrace F2 intercross. More recently, a genome-wide association study detected the same genomic region for muscle fatty acid composition in an Iberian x Landrace backcross population. *ELOVL6*, a strong positional candidate gene for this QTL, contains a polymorphism in its promoter region (*ELOVL6&#58;c.-533C &lt; T*), which is associated with percentage of palmitic and palmitoleic acids in muscle and adipose tissues. Here, a combination of single-marker association and the haplotype-based approach was used to analyze backfat fatty acid composition in 470 animals of an Iberian x Landrace F<sub>2</sub> intercross genotyped with 144 SNPs (single nucleotide polymorphisms) distributed along SSC8.Two trait-associated SNP regions were identified at 93 Mb and 119 Mb on SSC8. The strongest statistical signals of both regions were observed for palmitoleic acid (C16&#58;1(n-7)) content and C18&#58;0&#47;C16&#58;0 and C18&#58;1(n-7)&#47;C16&#58;1(n-7) elongation ratios. *MAML3* and *SETD7* are positional candidate genes in the 93 Mb region and two novel microsatellites in *MAML3* and nine SNPs in *SETD7* were identified. No significant association for the *MAML3* microsatellite genotypes was detected. The *SETD7&#58;c.700G &gt; T* SNP, although statistically significant, was not the strongest signal in this region. In addition, the expression of *MAML3* and *SETD7* in liver and adipose tissue varied among animals, but no association was detected with the polymorphisms in these genes. In the 119 Mb region, the *ELOVL6&#58;c.-533C &lt; T* polymorphism showed a strong association with percentage of palmitic and palmitoleic fatty acids and elongation ratios in backfat. Our results suggest that the polymorphisms studied in *MAML3* and *SETD7* are not the causal mutations for the QTL in the 93 Mb region. However, the results for *ELOVL6* support the hypothesis that the *ELOVL6&#58;c.-533C &gt; T* polymorphism has a pleiotropic effect on backfat and intramuscular fatty acid composition and that it has a role in the determination of the QTL in the 119 Mb region.
 
 
 # Summary. An optional shortened abstract.
@@ -73,9 +73,5 @@ projects:
 slides: 
 ---
 
-<div class="article-style">
-  <h4 id=full-citation">Full citation</h4>
-<p>
-  <strong>Revilla, M.</strong>, Ramayo&#150;Caldas, R., Castell&oacute;, A., Corominas, J., Puig&#150;Oliveras, A., Iba&ntilde;ez&#150;Escriche, N., Mu&ntilde;oz, M., Ballester, M., Folch, J.M. (2014). New insight into the SSC8 genetic determination of fatty acid composition in pigs. <em>Genetics Selection Evolution</em>, 46:28. doi: <a href="https://doi.org/10.1186/1297-9686-46-28" target="_blank">10.1186/1297-9686-46-28</a>  
-  </p>
-</div>
+#### Full citation ####
+**Revilla, M.**, Ramayo-Caldas, R., Castell&oacute;, A., Corominas, J., Puig-Oliveras, A., Iba&ntilde;ez-Escriche, N., Mu&ntilde;oz, M., Ballester, M., Folch, J.M. (2014). New insight into the SSC8 genetic determination of fatty acid composition in pigs. *Genetics Selection Evolution*, 46:28. doi: [10.1186/1297-9686-46-28](https://doi.org/10.1186/1297-9686-46-28 "10.1186/1297-9686-46-28") 

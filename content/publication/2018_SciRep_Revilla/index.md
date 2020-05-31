@@ -1,10 +1,10 @@
 ---
 title: "Expression analysis of candidate genes for fatty acid composition in adipose tissue and identification of regulatory regions"
 authors:
-- <strong>Manuel Revilla</strong>
-- Anna Puig&#150;Oliveras
-- Daniel Crespo&#150;Piazuelo
-- Lourdes Criado&#150;Mesas
+- "**Manuel Revilla**"
+- Anna Puig-Oliveras
+- Daniel Crespo-Piazuelo
+- Lourdes Criado-Mesas
 - Anna Castell&oacute;
 - Ana I Fern&aacute;ndez
 - Maria Ballester
@@ -26,7 +26,7 @@ publication_types: ["2"]
 publication: "*Scientific Reports*"
 publication_short: ""
 
-abstract: The aim of this work was to study the genetic basis of the backfat expression of lipid-related genes associated with meat quality traits in pigs. We performed a genome-wide association study with the backfat gene expression measured in 44 genes by qPCR and the <i>PorcineSNP60 BeadChip</i> genotypes in 115 Iberian x Landrace backcross animals. A total of 193 expression-associated SNPs located in 19 chromosomal regions were associated with expression levels of <i>ACSM5, ELOVL6, FABP4, FADS2,</i> and <i>SLC27A4</i> genes. Three expression quantitative trail loci (eQTLs) corresponding to <i>ACSM5, FABP4,</i> and <i>FADS2</i> were classified as <i>cis</i>-acting eQTLs, whereas the remaining 16 eQTLs have <i>trans</i>-regulatory effects. Remarkably, a SNP in the <i>ACSM5</i> promoter region and a SNP in the 3'UTR region of <i>FABP4</i> were the most associated polymorphisms with the <i>ACSM5</i> and <i>FABP4</i> expression levels, respectively. Moreover, relevant lipid-related genes mapped in the <i>trans</i>-eQTLs regions associated with the <i>ACSM5, FABP4, FADS2,</i> and <i>SLC27A4</i> genes. Interestingly, a <i>trans</i>-eQTL hotspot on SSC13 regulating the gene expression of <i>ELOVL6, ELOLV5,</i> and <i>SCD</i>, three important genes implicated in the elongation and desaturation of fatty acids, was identified. These findings provide new data to further understand the functional regulatory mechanisms implicated in the variation of fatty acid composition in pigs.
+abstract: The aim of this work was to study the genetic basis of the backfat expression of lipid-related genes associated with meat quality traits in pigs. We performed a genome-wide association study with the backfat gene expression measured in 44 genes by qPCR and the *PorcineSNP60 BeadChip* genotypes in 115 Iberian x Landrace backcross animals. A total of 193 expression-associated SNPs located in 19 chromosomal regions were associated with expression levels of *ACSM5, ELOVL6, FABP4, FADS2,* and *SLC27A4* genes. Three expression quantitative trail loci (eQTLs) corresponding to *ACSM5, FABP4,* and *FADS2* were classified as *cis*-acting eQTLs, whereas the remaining 16 eQTLs have *trans*-regulatory effects. Remarkably, a SNP in the *ACSM5* promoter region and a SNP in the 3'UTR region of *FABP4* were the most associated polymorphisms with the *ACSM5* and *FABP4* expression levels, respectively. Moreover, relevant lipid-related genes mapped in the *trans*-eQTLs regions associated with the *ACSM5, FABP4, FADS2,* and *SLC27A4* genes. Interestingly, a *trans*-eQTL hotspot on SSC13 regulating the gene expression of *ELOVL6, ELOLV5,* and *SCD*, three important genes implicated in the elongation and desaturation of fatty acids, was identified. These findings provide new data to further understand the functional regulatory mechanisms implicated in the variation of fatty acid composition in pigs.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -70,9 +70,5 @@ projects:
 slides: 
 ---
 
-<div class="article-style">
-  <h4 id=full-citation">Full citation</h4>
-<p>
-  <strong>Revilla, M.</strong>, Puig&#150;Oliveras, A., Crespo&#150;Piazuelo, D., Criado&#150;Mesas, L., Castell&oacute;, A., Fern&aacute;ndez, A.I., Ballester, M., Folch, J.M. (2018). Expression analysis of candidate genes for fatty acid composition in adipose tissue and identification of regulatory regions. <em>Scientific Reports</em>, 8(1):2045. doi: <a href="https://doi.org/10.1038/s41598-018-20473-3" target="_blank">10.1038/s41598-018-20473-3</a>  
-  </p>
-</div>
+#### Full citation ####
+**Revilla, M.**, Puig-Oliveras, A., Crespo-Piazuelo, D., Criado-Mesas, L., Castell&oacute;, A., Fern&aacute;ndez, A.I., Ballester, M., Folch, J.M. (2018). Expression analysis of candidate genes for fatty acid composition in adipose tissue and identification of regulatory regions. *Scientific Reports*, 8(1):2045. doi: [10.1038/s41598-018-20473-3](https://doi.org/10.1038/s41598-018-20473-3 "10.1038/s41598-018-20473-3") 

@@ -1,9 +1,9 @@
 ---
 title: "Indel detection from Whole Genome Sequencing data and association with lipid metabolism in pigs"
 authors:
-- Daniel Crespo&#150;Piazuelo
-- Lourdes Criado&#150;Mesas
-- <strong>Manuel Revilla</strong>
+- Daniel Crespo-Piazuelo
+- Lourdes Criado-Mesas
+- "**Manuel Revilla**"
 - Anna Castell&oacute;
 - Ana I Fern&aacute;ndez
 - Josep M Folch
@@ -25,7 +25,7 @@ publication_types: ["2"]
 publication: "*PLoS One*"
 publication_short: ""
 
-abstract: The selection in commercial swine breeds for meat-production efficiency has been increasing among the past decades, reducing the intramuscular fat content, which has changed the sensorial and technological properties of pork. Through processes of natural adaptation and selective breeding, the accumulation of mutations has driven the genetic divergence between pig breeds. The most common and well-studied mutations are single-nucleotide polymorphisms (SNPs). However, insertions and deletions (indels) usually represents a fifth part of the detected mutations and should also be considered for animal breeding. In the present study, three different programs (<i>Dindel, SAMtools mpileup,</i> and <i>GATK</i>) were used to detect indels from Whole Genome Sequencing data of Iberian boars and Landrace sows. A total of 1,928,746 indels were found in common with the three programs. The <i>VEP</i> tool predicted that 1,289 indels may have a high impact on protein sequence and function. Ten indels inside genes related with lipid metabolism were genotyped in pigs from three different backcrosses with Iberian origin, obtaining different allelic frequencies on each backcross. Genome-Wide Association Studies performed in the <i>Longissimus dorsi</i> muscle found an association between an indel located in the C1q and TNF related 12 (<i>C1QTNF12</i>) gene and the amount of eicosadienoic acid (C20:2(n-6)).
+abstract: The selection in commercial swine breeds for meat-production efficiency has been increasing among the past decades, reducing the intramuscular fat content, which has changed the sensorial and technological properties of pork. Through processes of natural adaptation and selective breeding, the accumulation of mutations has driven the genetic divergence between pig breeds. The most common and well-studied mutations are single-nucleotide polymorphisms (SNPs). However, insertions and deletions (indels) usually represents a fifth part of the detected mutations and should also be considered for animal breeding. In the present study, three different programs (*Dindel, SAMtools mpileup,* and *GATK*) were used to detect indels from Whole Genome Sequencing data of Iberian boars and Landrace sows. A total of 1,928,746 indels were found in common with the three programs. The *VEP* tool predicted that 1,289 indels may have a high impact on protein sequence and function. Ten indels inside genes related with lipid metabolism were genotyped in pigs from three different backcrosses with Iberian origin, obtaining different allelic frequencies on each backcross. Genome-Wide Association Studies performed in the *Longissimus dorsi* muscle found an association between an indel located in the C1q and TNF related 12 (*C1QTNF12*) gene and the amount of eicosadienoic acid (C20:2(n-6)).
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -69,10 +69,6 @@ projects:
 slides: 
 ---
 
-<div class="article-style">
-  <h4 id=full-citation">Full citation</h4>
-<p>
-  Crespo&#150;Piazuelo, D., Criado&#150;Mesas, L., <strong>Revilla, M.</strong>, Castell&oacute;, A., Fern&aacute;ndez, A.I., Folch, J.M., Ballester, M. (2019). Indel detection from Whole Genome Sequencing data and association with lipid metabolism in pigs. <em>PLoS One</em>, 14(6):e0218862. doi: <a href="https://doi.org/10.1371/journal.pone.0218862" target="_blank">10.1371/journal.pone.0218862</a>  
-  </p>
-</div>
+#### Full Citation ####
+Crespo-Piazuelo, D., Criado-Mesas, L., **Revilla, M.**, Castell&oacute;, A., Fern&aacute;ndez, A.I., Folch, J.M., Ballester, M. (2019). Indel detection from Whole Genome Sequencing data and association with lipid metabolism in pigs. *PLoS One*, 14(6):e0218862. doi: [10.1371/journal.pone.02188622](https://doi.org/10.1371/journal.pone.0218862 "10.1371/journal.pone.0218862") 
 

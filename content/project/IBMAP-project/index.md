@@ -12,7 +12,7 @@ date: "2015-12-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Iberian pigs during the <i>"Montanera"</i> period &copy; Manuel Revilla
+  caption: Iberian pigs during the *"Montanera"* period &copy; Manuel Revilla
   focal_point: Smart
 
 links:
@@ -37,14 +37,20 @@ url_source: ""
 slides: 
 ---
 
-  <h4 id=Title">Title</h4> Application  of  Genomics  and Massive  Parallel  Sequencing  methods  to  the  study  of  genetic  variants  that regulate growth, conformation and meat quality in pigs
+#### Tittle ####
+Application  of  Genomics  and Massive  Parallel  Sequencing  methods  to  the  study  of  genetic  variants  that regulate growth, conformation and meat quality in pigs
 
-  <h4 id=Project coordinator">Project coordinator</h4> <a href="https://orcid.org/0000-0003-3689-1303" target="_blank">Dr. Josep M Folch</a>
+#### Project coordinator ####
+[Dr. Josep M Folch](https://orcid.org/0000-0003-3689-1303 "Dr. Josep M Folch")
 
-  <h4 id=Host institution">Host institution</h4> <a href="https://www.cragenomica.es/" target="_blank">Centre de Recerca en Agrigen&ograve;mica (CRAG)</a>, <a href="https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html" target="_blank">Universitat Aut&ograve;noma de Barcelona (UAB)</a>, Bellaterra, Barcelona, Spain
+#### Host institution ####
+[Centre de Recerca en Agrigen&ograve;mica (CRAG)](https://www.cragenomica.es/ "CRAG"), [Universitat Aut&ograve;noma de Barcelona (UAB)](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html "UAB"), Bellaterra, Barcelona, Spain 
 
-  <h4 id=Funding source">Funding source</h4> <a href="http://www.mineco.gob.es/portal/site/mineco/menuitem.aa5c961c0709f0fe3e85b782026041a0/?vgnextoid=7c9f2f207c415310VgnVCM1000001d04140aRCRD&lang_choosen=en" target="_blank">Ministry of Economy and Competitiveness (MINECO)</a>
-  
-  <h4 id=Amount">Amount</h4> 138 000 euros 
+#### Funding source ####
+[Ministry of Economy and Competitiveness (MINECO)](http://www.mineco.gob.es/portal/site/mineco/menuitem.aa5c961c0709f0fe3e85b782026041a0/?vgnextoid=7c9f2f207c415310VgnVCM1000001d04140aRCRD&lang_choosen=en "MINECO")
 
-  <h4 id=ID">ID</h4> AGL2011-29821-C02
+#### Amount ####
+138 000 &euro;
+
+#### ID ####
+AGL2011-29821-C02

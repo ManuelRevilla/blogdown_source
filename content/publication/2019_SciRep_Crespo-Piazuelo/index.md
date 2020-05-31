@@ -1,14 +1,14 @@
 ---
 title: "Association between the pig genome and its gut microbiota composition"
 authors:
-- Daniel Crespo&#150;Piazuelo
-- Lourdes Migura&#150;Garcia
+- Daniel Crespo-Piazuelo
+- Lourdes Migura-Garcia
 - Jordi Estell&eacute;
-- Lourdes Criado&#150;Mesas
-- <strong>Manuel Revilla</strong>
+- Lourdes Criado-Mesas
+- "**Manuel Revilla**"
 - Anna Castell&oacute;
 - Mar&iacute;a Mu&ntilde;oz
-- Juan M. Garc&iacute;a&#150;Casco
+- Juan M. Garc&iacute;a-Casco
 - Ana I Fern&aacute;ndez
 - Maria Ballester
 - Josep M Folch
@@ -29,7 +29,7 @@ publication_types: ["2"]
 publication: "*Scientific Reports*"
 publication_short: ""
 
-abstract: The gut microbiota has been evolving with its host along the time creating a symbiotic relationship. In this study, we assess the role of the host genome in the modulation of the microbiota composition in pigs. Gut microbiota compositions were estimated through sequencing the V3-V4 region of the 16S rRNA gene from rectal contents of 285 pigs. A total of 1,261 operational taxonomic units were obtained and grouped in 18 phyla and 101 genera. <i>Firmicutes</i> (45.36%) and <i>Bacteroidetes</i> (37.47%) were the two major phyla obtained, whereas at genus level <i>Prevotella</i> (7.03%) and <i>Treponema</i> (6.29%) were the most abundant. Pigs were also genotyped with a high-throughput method for 45,508 single nucleotide polymorphisms that covered the entire pig genome. Subsequently, genome-wide association studies were made among the genotypes of these pigs and their gut microbiota composition. A total of 52 single-nucleotide polymorphisms distributed in 17 regions along the pig genome were associated with the relative abundance of six genera; <i>Akkermansia, CF231, Phascolarctobacterium, Prevotella, SMB53,</i> and <i>Streptococcus</i>. Our results suggest 39 candidate genes that may be modulating the microbiota composition and manifest the association between host genome and gut microbiota in pigs.
+abstract: The gut microbiota has been evolving with its host along the time creating a symbiotic relationship. In this study, we assess the role of the host genome in the modulation of the microbiota composition in pigs. Gut microbiota compositions were estimated through sequencing the V3-V4 region of the 16S rRNA gene from rectal contents of 285 pigs. A total of 1,261 operational taxonomic units were obtained and grouped in 18 phyla and 101 genera. *Firmicutes* (45.36%) and *Bacteroidetes* (37.47%) were the two major phyla obtained, whereas at genus level *Prevotella* (7.03%) and *Treponema* (6.29%) were the most abundant. Pigs were also genotyped with a high-throughput method for 45,508 single nucleotide polymorphisms that covered the entire pig genome. Subsequently, genome-wide association studies were made among the genotypes of these pigs and their gut microbiota composition. A total of 52 single-nucleotide polymorphisms distributed in 17 regions along the pig genome were associated with the relative abundance of six genera; *Akkermansia, CF231, Phascolarctobacterium, Prevotella, SMB53,* and *Streptococcus*. Our results suggest 39 candidate genes that may be modulating the microbiota composition and manifest the association between host genome and gut microbiota in pigs.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -73,10 +73,6 @@ projects:
 slides: 
 ---
 
-<div class="article-style">
-  <h4 id=full-citation">Full citation</h4>
-<p>
-  Crespo&#150;Piazuelo, D., Migura&#150;Garcia, L., Estell&eacute;, J., Criado&#150;Mesas, L., <strong>Revilla, M.</strong>, Castell&oacute;, A., Mu&ntilde;oz, M., Garc&iacute;a&#150;Casco, J.M., Fern&aacute;ndez, A.I., Ballester, M., Folch, J.M. (2019). Association between the pig genome and its gut microbiota composition. <em>Scientific Reports</em>, 9(1):8791. doi: <a href="https://doi.org/10.1038/s41598-019-45066-6" target="_blank">10.1038/s41598-019-45066-6</a>  
-  </p>
-</div>
+#### Full citation ####
+Crespo-Piazuelo, D., Migura-Garcia, L., Estell&eacute;, J., Criado-Mesas, L., **Revilla, M.**, Castell&oacute;, A., Mu&ntilde;oz, M., Garc&iacute;a-Casco, J.M., Fern&aacute;ndez, A.I., Ballester, M., Folch, J.M. (2019). Association between the pig genome and its gut microbiota composition. *Scientific Reports*, 9(1):8791. doi: [10.1038/s41598-019-45066-6](https://doi.org/10.1038/s41598-019-45066-6 "10.1038/s41598-019-45066-6") 
 

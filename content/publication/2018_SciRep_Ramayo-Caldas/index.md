@@ -1,11 +1,11 @@
 ---
 title: "Integrative approach using liver and duodenum RNA-Seq data identifies candidate genes and pathways associated with feed efficiency in pigs"
 authors:
-- Yuliaxis Ramayo&#150;Caldas
+- Yuliaxis Ramayo-Caldas
 - Maria Ballester
 - Juan Pablo S&aacute;nchez
-- Olga Gonz&aacute;lez&#150;Rodr&iacute;guez
-- <strong>Manuel Revilla</strong>
+- Olga Gonz&aacute;lez-Rodr&iacute;guez
+- "**Manuel Revilla**"
 - Henry Reyer
 - Klaus Wimmers
 - David Torrallardona
@@ -70,9 +70,5 @@ projects: []
 slides: 
 ---
 
-<div class="article-style">
-  <h4 id=full-citation">Full citation</h4>
-<p>
-  Ramayo&#150;Caldas, Y., Ballester, M., S&aacute;nchez, J.P., Gonz&aacute;lez&#150;Rodr&iacute;guez, O., <strong>Revilla, M.</strong>, Reyer, H., Wimmers, K., Torrallardona, D., Quintanilla, R. (2018). Integrative approach using liver and duodenum RNA-Seq data identifies candidate genes and pathways associated with feed efficiency in pigs. <em>Scientific Reports</em>, 8(1):558. doi: <a href="https://doi.org/10.1038/s41598-017-19072-5" target="_blank">10.1038/s41598-017-19072-5</a>  
-  </p>
-</div>
+#### Full citation ####
+Ramayo-Caldas, Y., Ballester, M., S&aacute;nchez, J.P., Gonz&aacute;lez-Rodr&iacute;guez, O., **Revilla, M.**, Reyer, H., Wimmers, K., Torrallardona, D., Quintanilla, R. (2018). Integrative approach using liver and duodenum RNA-Seq data identifies candidate genes and pathways associated with feed efficiency in pigs. *Scientific Reports*, 8(1):558. doi: [10.1038/s41598-017-19072-5](https://doi.org/10.1038/s41598-017-19072-5 "10.1038/s41598-017-19072-5") 
