@@ -14,7 +14,7 @@ publishDir = "../manuelrevilla.github.io"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Last updated Sep. 27, 2020 &#183; &copy; 2019 Manuel Revilla under (CC BY-SA 4.0)"
+copyright = "Last updated Oct. 30, 2020 &#183; &copy; 2019 Manuel Revilla under (CC BY-SA 4.0)"
 
 ############################
 ## Advanced options below ##
